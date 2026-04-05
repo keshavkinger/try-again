@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello bro kinger ji love u ahh
+=======
+hello bro kinger ji love u www
+>>>>>>> feature-1
